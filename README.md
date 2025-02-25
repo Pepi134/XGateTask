@@ -38,7 +38,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 Install dependencies:
 
-pip install -r requirements.txt
+pip install django
 
 Apply migrations:
 
@@ -56,7 +56,7 @@ Open the app in your browser at http://127.0.0.1:8000/
 
 Usage
 
-Register or log in as a user.
+/register or / login-> Register or log in as a user.
 
 Create projects and add tasks within them.
 
